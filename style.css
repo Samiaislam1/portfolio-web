@@ -1,0 +1,47 @@
+.body h1{font-family: 'EB Garamond', serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+h1{ font-size: 50px;
+    
+
+}
+.padding{
+    padding-left: 470px;
+}
+p{
+    font-size:25px;
+}
+.color{
+    color: aquamarine;
+    
+
+}
+section{
+   display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 4%;
+}.width img{
+    width: 99%;
+    
+
+}
+.button{
+    text-decoration: none;
+    background-color:rgb(59, 223, 168) ;
+    border-radius: 11%;
+    padding: 10px;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.half img{
+    width:17% ;
+}.half h1{
+    font-size:200%;
+ }
+ 
+ 
