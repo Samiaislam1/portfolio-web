@@ -114,13 +114,21 @@ section{
      padding-left: 30%;
     
  
- }.black{
+ }
+ .black{
      background-color: black;
      color: wheat;
      padding-left: 50px;
      border: 220px;
-     text-align: center;
-     margin:none;
+    text-align: center;
+     margin:none}
+    .hi{
+     background-image: url(shape-5.png) }
+ .back{
+     background-image: url(shape-7.png)
+ }
+ .git{
+     background-image: url(shape-1.png);
  }
  
  
