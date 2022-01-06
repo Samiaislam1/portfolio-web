@@ -9,12 +9,14 @@ h1{ font-size: 50px;
 }
 .padding{
     padding-left: 470px;
+    font-size: 40px;
+    padding-top: 4%;
 }
 p{
     font-size:25px;
 }
 .color{
-    color: aquamarine;
+    color:#F7CAC9 ;
     
 
 }
@@ -32,16 +34,76 @@ section{
 }
 .button{
     text-decoration: none;
-    background-color:rgb(59, 223, 168) ;
+    background-color:#F7CAC9 ;
     border-radius: 11%;
     padding: 10px;
     padding-left: 4%;
     padding-right: 4%;
+    color: black;
+
 }
 .half img{
     width:17% ;
 }.half h1{
     font-size:200%;
  }
- 
+ .name1{
+     display:flex ;
+     padding-top: 5%;
+
+ }
+ .name1 img{
+     width: 50%;
+
+ }
+ .name1 h1{
+     font-size: 280%;
+ }
+ .color1{
+     background-color: #FAFAD2;
+     border-radius: 7%;
+     margin: 1%;
+     padding-left: 2%;
+     width: 45%;
+ }.color2{
+     background-color: #DEF0FF;
+     border-radius: 7%;
+     margin: 1%;
+     padding-left: 2%;
+     width: 45%;
+ }.color3{
+     background-color: #DEF0FF;
+     border-radius: 7%;
+     margin: 1%;
+     padding-left: 2%;
+     width: 45%;
+ }
+.size img{
+    width: 45%;}
+ .name1{
+     font-size: 11px;
+ }.hight img{
+     width: 45%;
+     padding-left: 53% ;
+ }.hight{
+     padding-left:2% ;
+     padding-top: 10%;
+ }.s{
+     padding-right: 200px;
+     font-size: 40px;
+    
+ }.fonts{
+     font-size: 35px;
+ }
+     
+ .top{
+     padding-top: 5%;
+ }.size2{
+     width: 80%;
+     padding-left: 2%;
+ }.size{
+     padding-top: 10%;
+ }.s{
+     padding-right: 30%;
+ }
  
