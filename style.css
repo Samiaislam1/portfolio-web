@@ -26,9 +26,11 @@ section{
 .width{
     width: 50%;
     padding-left: 5%;
-    padding-right: 4%;
+    padding-right: 5%;
 }.width img{
     width: 99%;
+    text-align: left;
+    float: left;
     
 
 }
@@ -98,6 +100,7 @@ section{
      
  .top{
      padding-top: 5%;
+     
  }.size2{
      width: 80%;
      padding-left: 2%;
@@ -106,4 +109,10 @@ section{
  }.s{
      padding-right: 30%;
  }
+ .covid{
+     color: rgb(235, 179, 216);
+     padding-left: 30%;
+    
+ }
+ 
  
