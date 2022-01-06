@@ -113,6 +113,14 @@ section{
      color: rgb(235, 179, 216);
      padding-left: 30%;
     
+ 
+ }.black{
+     background-color: black;
+     color: wheat;
+     padding-left: 50px;
+     border: 220px;
+     text-align: center;
+     margin:none;
  }
  
  
